@@ -32,8 +32,8 @@ The area of the circle with radius 7.0 is: 153.93804002589985
 
 
 firstname = input("Input your First Name : ")
-Input your First Name : Rajesh
+Input your First Name : Amit 
 lastname = input("Input your Last Name : ")
 Input your Last Name : Kumar
 print("Hi! " + lastname + " " + firstname)
-Hi! Kumar Rajesh
+Hi! Kumar Amit
